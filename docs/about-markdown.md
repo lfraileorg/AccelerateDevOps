@@ -8,7 +8,7 @@ You can use markdown to write and format text in GitHub - in Issues, Pull Reques
 
 ### Headings 
 
-# `#` Heading
+# \#` Heading
 ## `##` Heading2
 ### `###` Heading3
 
@@ -23,7 +23,9 @@ You can also use `~~`~~strikethrough text~~`~~`.
 ## Links
 
 https://xpirit.com/
+
 [Link Text](https://xpirit.com)
+
 [Test.pdf](https://github.com/wulfland/AccelerateDevOps/files/8073527/Test.pdf)
 
 ### Images
